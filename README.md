@@ -1,6 +1,6 @@
 # Java New Features
 
-## Java 7
+## Java 7 [(pdf)](https://github.com/nitr-dimple/Java-New-Features/blob/master/Java%2B7-New%2BFeatures.pdf)
 
 1. [Try With Resource](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/TryWithResources)
 2. [Suppressed Exceptions](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/SuppressedExceptions)
@@ -12,4 +12,4 @@
 8. [Watch Service](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/WatchService)
 9. [Binary Literals](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/BinaryLiterals)
 10. [String in Switch Statement](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/StringSwitchStatement)
-11. 
+11. [Fork Join](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/ForkJoin)
