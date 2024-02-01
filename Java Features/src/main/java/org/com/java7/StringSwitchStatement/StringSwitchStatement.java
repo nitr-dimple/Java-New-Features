@@ -26,5 +26,5 @@ public class StringSwitchStatement {
                 System.out.println("Today is day");
         }
     }
-    
+
 }
