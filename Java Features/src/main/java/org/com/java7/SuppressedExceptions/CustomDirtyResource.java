@@ -1,4 +1,4 @@
-package org.com.SuppressedExceptions;
+package org.com.java7.SuppressedExceptions;
 
 /**
  * @author Dimpleben Kanjibhai Patel

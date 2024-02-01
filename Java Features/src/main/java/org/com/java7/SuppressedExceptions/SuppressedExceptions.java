@@ -1,4 +1,4 @@
-package org.com.SuppressedExceptions;
+package org.com.java7.SuppressedExceptions;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

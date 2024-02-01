@@ -1,7 +1,7 @@
-package org.com.CatchMultipleExceptions;
+package org.com.java7.CatchMultipleExceptions;
 
 
-import org.com.SuppressedExceptions.SuppressedExceptions;
+import org.com.java7.SuppressedExceptions.SuppressedExceptions;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
