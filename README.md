@@ -10,3 +10,4 @@
 6. [Objects Class](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/ObjectsClass)
 7. [SafeVarArgs](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/SafeVarArgs)
 8. [Watch Service](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/WatchService)
+9. [Binary Literals](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/BinaryLiterals)
