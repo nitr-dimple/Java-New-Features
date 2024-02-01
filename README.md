@@ -8,3 +8,4 @@
 4. [Rethrow Exceptions](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/RethrowingExceptions)
 5. [ReflectiveOperationException](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/ReflectiveOperationException)
 6. [Objects Class](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/ObjectsClass)
+7. [SafeVarArgs](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/SafeVarArgs)
