@@ -13,3 +13,6 @@
 9. [Binary Literals](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/BinaryLiterals)
 10. [String in Switch Statement](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/StringSwitchStatement)
 11. [Fork Join](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java7/ForkJoin)
+
+
+## Java 8 [(pdf)](https://github.com/nitr-dimple/Java-New-Features/blob/master/Java%2B8-New%2BFeatures.pdf)
