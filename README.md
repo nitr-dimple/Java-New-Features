@@ -16,3 +16,4 @@
 
 
 ## Java 8 [(pdf)](https://github.com/nitr-dimple/Java-New-Features/blob/master/Java%2B8-New%2BFeatures.pdf)
+1. [Default Method in Interface](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java8/DefaultMethodsInInterfaces)
