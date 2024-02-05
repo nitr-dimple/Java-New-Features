@@ -1,4 +1,4 @@
-package org.com.Java8.DefaultMethodsInInterfaces;
+package org.com.java8.DefaultMethodsInInterfaces;
 
 /**
  * @author Dimpleben Kanjibhai Patel

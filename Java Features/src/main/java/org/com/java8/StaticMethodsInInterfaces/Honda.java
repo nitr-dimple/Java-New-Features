@@ -1,10 +1,9 @@
-package org.com.Java8.DefaultMethodsInInterfaces;
+package org.com.java8.StaticMethodsInInterfaces;
 
 /**
  * @author Dimpleben Kanjibhai Patel
  */
 public class Honda implements Vehicle{
-
 
     @Override
     public int getSpeed() {
@@ -16,11 +15,17 @@ public class Honda implements Vehicle{
         System.out.println("Breaks applied");
     }
 
+    @Override
+    public void autoPilot(){
+        System.out.println("Honda Auto Pilot Applied");
+    }
+
     public static void main(String[] args) {
-        Honda honda = new Honda();
+        org.com.java8.DefaultMethodsInInterfaces.Honda honda = new org.com.java8.DefaultMethodsInInterfaces.Honda();
         honda.applyBreak();
-        honda.sayHello();
         honda.autoPilot();
+        Vehicle.sayHello();
+        Honda.sayHello();
     }
 
     private static void sayHello(){
