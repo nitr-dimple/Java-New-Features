@@ -19,4 +19,5 @@
 1. [Default Method in Interface](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java8/DefaultMethodsInInterfaces)
 2. [Static Method in Interfaces](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java8/StaticMethodsInInterfaces)
 3. [Optional](https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java8/Optional)
-4. 
+4. [Lambda]((https://github.com/nitr-dimple/Java-New-Features/tree/master/Java%20Features/src/main/java/org/com/java8/lambda)
+
